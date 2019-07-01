@@ -16,6 +16,7 @@
 - ZSH: See below section.
 - VLC
 - Spotify
+- CheatSheet (mac keyboard shortcuts)
 - Update Xcode?
 - Stickies
 - 1password
