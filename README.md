@@ -21,7 +21,7 @@
 - Stickies
 - 1password
 - Sublime Text
-- Visual Studio Code (dark theme) (https://code.visualstudio.com/)
+- Visual Studio Code (dark theme) (also setup command line 'code .' command) (https://code.visualstudio.com/)
 - Node.js
 - Better Snap Tool (setup corners, thirds and two-thirds) (dark highligh color)
 - Amphetamine
