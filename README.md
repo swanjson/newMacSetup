@@ -74,6 +74,7 @@ export PATH=/Users/jay.swanson/scriptStuff/adbScripts/testingAdbScripts/:$PATH
 Extensions:
 - Violentmonkey (Script for dark theme GitHub: https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js)
 - JSON Formatter
+- React Developer Tools
 - Text Blaze
 - Redux DevTools
 - Google Keep
