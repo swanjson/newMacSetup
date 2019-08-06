@@ -80,6 +80,7 @@ Extensions:
 - Google Keep
 - Google Docs Offline
 - Ad Block (ad block plus)
+- Momentum (Chrome new tab custimization)
 
 
 
