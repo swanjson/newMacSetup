@@ -35,6 +35,7 @@
 - Steam
 	- xbox controller driver (https://github.com/360Controller/360Controller/releases)
 - JS Stuff (watch for downloading privileges, might not download on secure network)
+	- nvm (keeps versions the same.)
 	- npm/npx (https://www.npmjs.com/)
 	- yarn
 	- eslint (https://eslint.org/)
