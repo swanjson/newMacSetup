@@ -22,10 +22,11 @@
 - 1password
 - Sublime Text
 - Visual Studio Code (dark theme) (also setup command line 'code .' command) (https://code.visualstudio.com/)
+	-command shift P, "shell command"
 - Node.js
 - Better Snap Tool (setup corners, thirds and two-thirds) (dark highligh color)
 - Amphetamine
-- Alphred
+- Alfred
 - TexShop
 - Microsoft Office
 - Python3
@@ -55,7 +56,7 @@ cd fonts
 - Theme: Homebrew
 - Edit `~/.zshrc` file for customs:
 	- change theme to `ZSH_THEME="agnoster"` (https://github.com/agnoster/agnoster-zsh-theme)
-	- add `DEFAULT_USER=`whoami` ` to make the terminal prompt blank
+	- add `DEFAULT_USER=whoami` to make the terminal prompt blank (whoami in backticks)
 	- add `DISABLE_AUTO_TITLE="true"` to keep original terminal window title
 	- Add new paths by putting them in `~/.zshrc` file as:
 ```bash
@@ -68,6 +69,8 @@ export PATH=/Users/jay.swanson/scriptStuff/adbScripts/testingAdbScripts/:$PATH
 - .xml
 - .md
 - .csv
+- .m
+- .asm
 
 # Chrome and Extensions
 - Dark Theme (Inspect feature too)
