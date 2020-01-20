@@ -13,6 +13,7 @@
 - Homebrew
 	- Install CLI tools for Xcode: (`xcode-select —-install`)
 	- Install homebrew: (`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
+- `brew install tree` gives a list in tree diagram form
 - ZSH: See below section.
 - VLC
 - Spotify
