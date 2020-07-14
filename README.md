@@ -18,14 +18,17 @@
 - VLC
 - Spotify
 - CheatSheet (mac keyboard shortcuts)
+- GoogleKeep (make sure i'm logged into the account i want for notes)
 - Update Xcode?
 - Stickies
 - 1password
 - Sublime Text
+	- add packages for matlab, etc.
 - Visual Studio Code (dark theme) (also setup command line 'code .' command) (https://code.visualstudio.com/)
 	-command shift P, "shell command"
+	- rainbow brackets add on
 - Node.js
-- Better Snap Tool (setup corners, thirds and two-thirds) (dark highligh color)
+- Better Snap Tool (setup corners, thirds and two-thirds) (dark highlight color)
 - Amphetamine
 - Alfred
 - TexShop
@@ -54,6 +57,7 @@ git clone https://github.com/powerline/fonts.git
 cd fonts
 ./install.sh
 ```
+- Open new window with Homebrew
 - Font: Meslo LG L Bold for Powerline
 - Theme: Homebrew
 - Edit `~/.zshrc` file for customs:
